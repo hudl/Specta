@@ -1,5 +1,5 @@
 #import <XCTest/XCTest.h>
-#import <Specta/Specta.h>
+@import Specta;
 
 #if __IPHONE_OS_VERSION_MAX_ALLOWED >= 90000 || __MAC_OS_X_VERSION_MAX_ALLOWED >= 101100
 

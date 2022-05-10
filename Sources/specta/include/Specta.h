@@ -9,6 +9,6 @@ FOUNDATION_EXPORT const unsigned char SpectaVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Specta/PublicHeader.h>
 
-#import <Specta/SpectaDSL.h>
-#import <Specta/SPTSpec.h>
-#import <Specta/SPTSharedExampleGroups.h>
+#import "SpectaDSL.h"
+#import "SPTSpec.h"
+#import "SPTSharedExampleGroups.h"
